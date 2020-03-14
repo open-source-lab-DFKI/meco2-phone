@@ -1,7 +1,7 @@
-e-mission phone app
+MECO₂ phone app
 --------------------
 
-This is the phone component of the e-mission system.
+This is the phone component of the MECO₂ system, based on the original e-mission app. 
 
 Additional Documentation
 ---
